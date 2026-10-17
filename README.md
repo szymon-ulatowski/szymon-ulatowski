@@ -1,26 +1,21 @@
-# Hi, I'm Szymon Ulatowski
+### About Me
 
-Backend & Full-Stack Developer with over **8 years of overall programming experience**.
+Backend & Full-Stack Developer with **8+ years of experience** specializing in high-performance .NET systems, scalable REST APIs, and cloud security. Creator of high-throughput backend engines and the full-stack platform **[furycraft.pl](https://furycraft.pl)**.
 
-- **Commercial Experience:** .NET Core, C#, Vue.js, REST APIs, SQL, Cloud Security. *(Commercial codebases are private)*
-- **Open Source & Independent Projects:** High-throughput Java backend systems.
-- **AI & Automation:** Integrating LLMs, and building autonomous AI agents.
-- **Live Demo Platform:** [furycraft.pl](https://furycraft.pl) *(Full-stack web application)*
+* **Commercial Stack:** .NET Core, C#, Vue.js, REST APIs, SQL, Azure Cloud
+* **Core Focus:** High-Throughput Architecture, Low-Latency Execution, Memory Optimization
+* **AI & Innovation:** LLM Integration, Autonomous AI Agents, Workflow Automation
 
 ---
 
 ### Technical Skills
 
-- **Languages:** C#, Java, TypeScript, SQL
-- **Backend Development:** .NET Core / .NET, RESTful APIs, Multithreading & Concurrency, Memory Optimization, High-Throughput Architecture, Spring Boot
-- **Frontend Development:** Vue.js, HTML5, CSS3, JavaScript / TypeScript / TSX
-- **Cloud, Security & DevOps:** Microsoft Azure, Microsoft Entra ID (Identity & Access Management / SSO / RBAC), Git, CI/CD basics, Web Hosting
-- **AI & Emerging Tech:** AI Agent Development, LLM API Integration, Prompt Engineering
-- **Databases & ORM:** SQL (MySQL / PostgreSQL / SQL Server), Entity Framework Core
-- **Game Engine & Low-Level APIs:** Spigot API, Event-Driven Architecture, Low-Latency Networking
-- **Engineering Practices:** Clean Code, Performance Profiling, OOP, Design Patterns, Unit Testing
+| Domain | Technologies & Concepts |
+| :--- | :--- |
+| **Languages** | C#, Java, TypeScript, SQL |
+| **Backend & Architecture** | .NET Core, EF Core, REST APIs, Multithreading, Low-Latency Networking, Spring Boot |
+| **Cloud, Security & DevOps** | Microsoft Azure, Entra ID (SSO / RBAC), Git, CI/CD |
+| **Databases** | SQL Server, PostgreSQL, MySQL |
+| **Frontend** | Vue.js, TypeScript, JavaScript |
+| **Engineering Practices** | Clean Code, Event-Driven Architecture, Performance Profiling |
 
----
-
-### Links
-- **Live Web Application:** [furycraft.pl](https://furycraft.pl)
